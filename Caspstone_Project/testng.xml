@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="Java_Selenium.Caspstone_Project.AppTest"/>
+      <class name="Java_Selenium.Caspstone_Project.test1"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
